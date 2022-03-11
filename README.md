@@ -11,3 +11,7 @@ Hello World, Objectives:
 For Loop Basic 1, Objectives:
     Learn loop statements in Python
     Practice Python algorithms
+
+Functions Basic 1, Objectives:
+    Avoid common functions mistakes
+    Use T-diagrams to debug code
