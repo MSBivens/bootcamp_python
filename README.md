@@ -33,3 +33,6 @@ User, Objectives:
 
 Chaining Methods, Objectives:
     Understand how to chain methods
+
+Bank Account, Objectives:
+    Practice writing classes
