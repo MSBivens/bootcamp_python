@@ -26,3 +26,7 @@ Functions Intermediate 1, Objectives:
     Practice writing functions
     Practice looping over dictionaries
     Improve understanding of how to move through a list of dictionaries or a dictionary of lists
+
+User, Objectives:
+    Practice creating a class and instances
+    Practice accessing methods and attributes of different instances
