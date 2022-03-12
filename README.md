@@ -1,5 +1,6 @@
 # Bootcamp - Python Stack
 Collection of code for the Coding Dojo Bootcamp, Python Stack assignments
+I am currently in the Python stack so this is a growing collection
 
 Recognize Python, Objectives:
     Indentify concepts in a new language
@@ -15,3 +16,8 @@ For Loop Basic 1, Objectives:
 Functions Basic 1, Objectives:
     Avoid common functions mistakes
     Use T-diagrams to debug code
+
+Functions Basic 2, Objectives:
+    Create basic Python functions
+    Get comfortable with lists
+    Get comfortable with function returns 
