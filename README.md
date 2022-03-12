@@ -39,3 +39,8 @@ Bank Account, Objectives:
 
 Users with Bank Accounts, Objectives:
     Practice writing classes with associations
+
+Modularizing, Objectives:
+    Gain familiarity with modules
+    Learn about the variable __name__
+    Practice modularizing code
