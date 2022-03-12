@@ -21,3 +21,8 @@ Functions Basic 2, Objectives:
     Create basic Python functions
     Get comfortable with lists
     Get comfortable with function returns 
+
+Functions Intermediate 1, Objectives:
+    Practice writing functions
+    Practice looping over dictionaries
+    Improve understanding of how to move through a list of dictionaries or a dictionary of lists
