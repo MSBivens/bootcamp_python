@@ -30,3 +30,6 @@ Functions Intermediate 1, Objectives:
 User, Objectives:
     Practice creating a class and instances
     Practice accessing methods and attributes of different instances
+
+Chaining Methods, Objectives:
+    Understand how to chain methods
