@@ -1,3 +1,5 @@
+# Add functionality for withdrawals, displaying balances, and transfers
+
 class User:
     def __init__(self, name):
         self.name = name
@@ -14,9 +16,13 @@ class User:
         self.display_user_balance()
         user.display_user_balance()
 
+# Create instances of the class 
+
 mike = User("mike")
 cleighton = User("cleighton")
 marco = User("marco")
+
+# Use the methods to test 
 
 mike.make_deposit(100)
 mike.make_deposit(200)
