@@ -36,3 +36,6 @@ Chaining Methods, Objectives:
 
 Bank Account, Objectives:
     Practice writing classes
+
+Users with Bank Accounts, Objectives:
+    Practice writing classes with associations
