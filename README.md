@@ -44,3 +44,6 @@ Modularizing, Objectives:
     Gain familiarity with modules
     Learn about the variable __name__
     Practice modularizing code
+
+Dojo Pets, Objectives:
+    Practice OOP and class association
