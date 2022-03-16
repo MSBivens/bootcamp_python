@@ -1,7 +1,12 @@
-# Bootcamp - Python Stack
-Collection of code for the Coding Dojo Bootcamp, Python Stack assignments
-I am currently in the Python stack so this is a growing collection
+# Bootcamp - Python Course
+This is a collection of code for the Coding Dojo Bootcamp, Python course assignments.
+This course was the first of the Python stack.
 
+The previous stack was Web Fundamentals, the repo for those assignments can be found here: https://github.com/MSBivens/bootcamp_web_fundamentals
+
+I have completed the Python course and moved on to the MySQL course, the repo for those assignments can be found here: https://github.com/MSBivens/bootcamp_mysql
+
+# Assignments for the Python Course 
 Recognize Python, Objectives:
     Indentify concepts in a new language
 
